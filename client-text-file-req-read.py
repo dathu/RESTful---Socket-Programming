@@ -1,4 +1,4 @@
-#**********************CREATED BY AMULYA SURESH, RACHANA U POLE, EWT SOIS, MANIPAL*******************************************************************
+#**********************CREATED BY AMULYA SURESH, RACHANA U POLE, EWT SOIS, MANIPAL*******
 import socket                   # Import socket module
 
 s = socket.socket()             # Create a socket object
