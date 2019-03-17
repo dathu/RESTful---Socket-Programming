@@ -1,0 +1,6 @@
+Megahana.M.C
+181040005, EWT, Sois
+
+We are implementing Client-Server date-time, calendar and host_name socket programming 
+*We are taking the request to display the current date-time, host name and calendar to the client and passing the corresponding request to the client.
+*After receiving the request all the data which is requested are displayed on the client.
