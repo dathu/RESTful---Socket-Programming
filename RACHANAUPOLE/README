@@ -1,0 +1,11 @@
+RACHANA U POLE
+EWT,SOIS,MANIPAL
+
+
+We are implementing Client-Server socket programming 
+
+*We are taking the request of the specific file to be fetched by the client and passing the corresponding file to the client.
+
+*Here first.txt,second.txt,third,txt are the three files created
+
+*received.txt is a file created automatically and the data from each file is appended into it.
