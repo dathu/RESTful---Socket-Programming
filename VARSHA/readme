@@ -1,0 +1,6 @@
+Nakshatra.A
+181040009,EWT,sois
+
+server client programming to send average.
+* server send a request to client to get a connection to display the average value.
+* after connection client display the average value.
